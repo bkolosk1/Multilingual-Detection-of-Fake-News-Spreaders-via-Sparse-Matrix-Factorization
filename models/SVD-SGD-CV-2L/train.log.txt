@@ -1,0 +1,460 @@
+11-May-20 14:48:35 - Generated 1000 features.
+11-May-20 14:48:58 - SGD 5fCV Accuracy: 0.66 (+/- 0.14)
+11-May-20 14:49:00 - LR 5fCV ccuracy: 0.67 (+/- 0.10)
+11-May-20 14:49:03 - Generated 1000 features.
+11-May-20 14:49:29 - SGD 5fCV Accuracy: 0.63 (+/- 0.16)
+11-May-20 14:49:31 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 14:49:34 - Generated 1000 features.
+11-May-20 14:49:59 - SGD 5fCV Accuracy: 0.64 (+/- 0.13)
+11-May-20 14:50:02 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 14:50:06 - Generated 5000 features.
+11-May-20 14:50:27 - SGD 5fCV Accuracy: 0.65 (+/- 0.05)
+11-May-20 14:50:29 - LR 5fCV ccuracy: 0.66 (+/- 0.07)
+11-May-20 14:50:33 - Generated 5000 features.
+11-May-20 14:50:58 - SGD 5fCV Accuracy: 0.69 (+/- 0.07)
+11-May-20 14:51:00 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 14:51:05 - Generated 5000 features.
+11-May-20 14:51:30 - SGD 5fCV Accuracy: 0.66 (+/- 0.08)
+11-May-20 14:51:32 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 14:51:38 - Generated 10000 features.
+11-May-20 14:51:58 - SGD 5fCV Accuracy: 0.64 (+/- 0.07)
+11-May-20 14:52:00 - LR 5fCV ccuracy: 0.66 (+/- 0.04)
+11-May-20 14:52:05 - Generated 10000 features.
+11-May-20 14:52:29 - SGD 5fCV Accuracy: 0.66 (+/- 0.05)
+11-May-20 14:52:31 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 14:52:37 - Generated 10000 features.
+11-May-20 14:53:01 - SGD 5fCV Accuracy: 0.65 (+/- 0.07)
+11-May-20 14:53:03 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 14:53:09 - Generated 20000 features.
+11-May-20 14:53:30 - SGD 5fCV Accuracy: 0.68 (+/- 0.04)
+11-May-20 14:53:32 - LR 5fCV ccuracy: 0.68 (+/- 0.05)
+11-May-20 14:53:39 - Generated 20000 features.
+11-May-20 14:54:02 - SGD 5fCV Accuracy: 0.69 (+/- 0.10)
+11-May-20 14:54:04 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 14:54:11 - Generated 20000 features.
+11-May-20 14:54:34 - SGD 5fCV Accuracy: 0.67 (+/- 0.10)
+11-May-20 14:54:37 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 14:54:43 - Generated 30000 features.
+11-May-20 14:55:04 - SGD 5fCV Accuracy: 0.68 (+/- 0.05)
+11-May-20 14:55:06 - LR 5fCV ccuracy: 0.68 (+/- 0.07)
+11-May-20 14:55:14 - Generated 30000 features.
+11-May-20 14:55:39 - SGD 5fCV Accuracy: 0.64 (+/- 0.08)
+11-May-20 14:55:40 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 14:55:49 - Generated 30000 features.
+11-May-20 14:56:13 - SGD 5fCV Accuracy: 0.67 (+/- 0.10)
+11-May-20 14:56:14 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 14:56:17 - Generated 1000 features.
+11-May-20 14:56:38 - SGD 5fCV Accuracy: 0.69 (+/- 0.03)
+11-May-20 14:56:39 - LR 5fCV ccuracy: 0.66 (+/- 0.10)
+11-May-20 14:56:42 - Generated 1000 features.
+11-May-20 14:57:07 - SGD 5fCV Accuracy: 0.64 (+/- 0.11)
+11-May-20 14:57:09 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 14:57:12 - Generated 1000 features.
+11-May-20 14:57:37 - SGD 5fCV Accuracy: 0.65 (+/- 0.12)
+11-May-20 14:57:39 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 14:57:44 - Generated 5000 features.
+11-May-20 14:58:04 - SGD 5fCV Accuracy: 0.65 (+/- 0.07)
+11-May-20 14:58:06 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 14:58:10 - Generated 5000 features.
+11-May-20 14:58:32 - SGD 5fCV Accuracy: 0.68 (+/- 0.12)
+11-May-20 14:58:34 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 14:58:39 - Generated 5000 features.
+11-May-20 14:59:02 - SGD 5fCV Accuracy: 0.66 (+/- 0.07)
+11-May-20 14:59:03 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 14:59:09 - Generated 10000 features.
+11-May-20 14:59:28 - SGD 5fCV Accuracy: 0.64 (+/- 0.08)
+11-May-20 14:59:30 - LR 5fCV ccuracy: 0.66 (+/- 0.05)
+11-May-20 14:59:35 - Generated 10000 features.
+11-May-20 14:59:58 - SGD 5fCV Accuracy: 0.68 (+/- 0.07)
+11-May-20 14:59:59 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:00:05 - Generated 10000 features.
+11-May-20 15:00:29 - SGD 5fCV Accuracy: 0.69 (+/- 0.06)
+11-May-20 15:00:31 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:00:37 - Generated 20000 features.
+11-May-20 15:00:56 - SGD 5fCV Accuracy: 0.68 (+/- 0.10)
+11-May-20 15:00:57 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:01:04 - Generated 20000 features.
+11-May-20 15:01:26 - SGD 5fCV Accuracy: 0.67 (+/- 0.13)
+11-May-20 15:01:27 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:01:34 - Generated 20000 features.
+11-May-20 15:01:56 - SGD 5fCV Accuracy: 0.67 (+/- 0.02)
+11-May-20 15:01:57 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:02:04 - Generated 30000 features.
+11-May-20 15:02:22 - SGD 5fCV Accuracy: 0.65 (+/- 0.12)
+11-May-20 15:02:24 - LR 5fCV ccuracy: 0.68 (+/- 0.05)
+11-May-20 15:02:31 - Generated 30000 features.
+11-May-20 15:02:53 - SGD 5fCV Accuracy: 0.65 (+/- 0.10)
+11-May-20 15:02:55 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:03:02 - Generated 30000 features.
+11-May-20 15:03:24 - SGD 5fCV Accuracy: 0.67 (+/- 0.09)
+11-May-20 15:03:26 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:03:28 - Generated 1000 features.
+11-May-20 15:03:48 - SGD 5fCV Accuracy: 0.65 (+/- 0.11)
+11-May-20 15:03:50 - LR 5fCV ccuracy: 0.67 (+/- 0.10)
+11-May-20 15:03:53 - Generated 1000 features.
+11-May-20 15:04:16 - SGD 5fCV Accuracy: 0.61 (+/- 0.10)
+11-May-20 15:04:18 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:04:21 - Generated 1000 features.
+11-May-20 15:04:44 - SGD 5fCV Accuracy: 0.67 (+/- 0.06)
+11-May-20 15:04:46 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:04:50 - Generated 5000 features.
+11-May-20 15:05:10 - SGD 5fCV Accuracy: 0.68 (+/- 0.09)
+11-May-20 15:05:11 - LR 5fCV ccuracy: 0.66 (+/- 0.06)
+11-May-20 15:05:15 - Generated 5000 features.
+11-May-20 15:05:38 - SGD 5fCV Accuracy: 0.66 (+/- 0.10)
+11-May-20 15:05:40 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:05:45 - Generated 5000 features.
+11-May-20 15:06:07 - SGD 5fCV Accuracy: 0.70 (+/- 0.09)
+11-May-20 15:06:09 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:06:14 - Generated 10000 features.
+11-May-20 15:06:33 - SGD 5fCV Accuracy: 0.66 (+/- 0.05)
+11-May-20 15:06:35 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:06:40 - Generated 10000 features.
+11-May-20 15:07:02 - SGD 5fCV Accuracy: 0.68 (+/- 0.07)
+11-May-20 15:07:04 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:07:10 - Generated 10000 features.
+11-May-20 15:07:32 - SGD 5fCV Accuracy: 0.68 (+/- 0.05)
+11-May-20 15:07:34 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:07:40 - Generated 20000 features.
+11-May-20 15:07:59 - SGD 5fCV Accuracy: 0.64 (+/- 0.11)
+11-May-20 15:08:00 - LR 5fCV ccuracy: 0.68 (+/- 0.06)
+11-May-20 15:08:07 - Generated 20000 features.
+11-May-20 15:08:29 - SGD 5fCV Accuracy: 0.70 (+/- 0.12)
+11-May-20 15:08:31 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:08:38 - Generated 20000 features.
+11-May-20 15:09:00 - SGD 5fCV Accuracy: 0.71 (+/- 0.13)
+11-May-20 15:09:02 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:09:08 - Generated 30000 features.
+11-May-20 15:09:27 - SGD 5fCV Accuracy: 0.67 (+/- 0.15)
+11-May-20 15:09:29 - LR 5fCV ccuracy: 0.69 (+/- 0.07)
+11-May-20 15:09:37 - Generated 30000 features.
+11-May-20 15:09:59 - SGD 5fCV Accuracy: 0.66 (+/- 0.12)
+11-May-20 15:10:00 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:10:08 - Generated 30000 features.
+11-May-20 15:10:30 - SGD 5fCV Accuracy: 0.64 (+/- 0.10)
+11-May-20 15:10:31 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:10:34 - Generated 1000 features.
+11-May-20 15:10:54 - SGD 5fCV Accuracy: 0.66 (+/- 0.13)
+11-May-20 15:10:56 - LR 5fCV ccuracy: 0.66 (+/- 0.10)
+11-May-20 15:10:58 - Generated 1000 features.
+11-May-20 15:11:21 - SGD 5fCV Accuracy: 0.66 (+/- 0.09)
+11-May-20 15:11:23 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:11:26 - Generated 1000 features.
+11-May-20 15:11:49 - SGD 5fCV Accuracy: 0.65 (+/- 0.14)
+11-May-20 15:11:51 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:11:55 - Generated 5000 features.
+11-May-20 15:12:14 - SGD 5fCV Accuracy: 0.65 (+/- 0.04)
+11-May-20 15:12:16 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:12:20 - Generated 5000 features.
+11-May-20 15:12:43 - SGD 5fCV Accuracy: 0.66 (+/- 0.06)
+11-May-20 15:12:45 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:12:50 - Generated 5000 features.
+11-May-20 15:13:13 - SGD 5fCV Accuracy: 0.67 (+/- 0.05)
+11-May-20 15:13:15 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:13:20 - Generated 10000 features.
+11-May-20 15:13:38 - SGD 5fCV Accuracy: 0.66 (+/- 0.05)
+11-May-20 15:13:40 - LR 5fCV ccuracy: 0.65 (+/- 0.05)
+11-May-20 15:13:45 - Generated 10000 features.
+11-May-20 15:14:08 - SGD 5fCV Accuracy: 0.67 (+/- 0.08)
+11-May-20 15:14:09 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:14:16 - Generated 10000 features.
+11-May-20 15:14:38 - SGD 5fCV Accuracy: 0.66 (+/- 0.09)
+11-May-20 15:14:40 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:14:45 - Generated 20000 features.
+11-May-20 15:15:04 - SGD 5fCV Accuracy: 0.66 (+/- 0.12)
+11-May-20 15:15:05 - LR 5fCV ccuracy: 0.68 (+/- 0.04)
+11-May-20 15:15:12 - Generated 20000 features.
+11-May-20 15:15:34 - SGD 5fCV Accuracy: 0.69 (+/- 0.09)
+11-May-20 15:15:36 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:15:43 - Generated 20000 features.
+11-May-20 15:16:05 - SGD 5fCV Accuracy: 0.67 (+/- 0.07)
+11-May-20 15:16:06 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:16:12 - Generated 30000 features.
+11-May-20 15:16:30 - SGD 5fCV Accuracy: 0.65 (+/- 0.09)
+11-May-20 15:16:31 - LR 5fCV ccuracy: 0.67 (+/- 0.04)
+11-May-20 15:16:38 - Generated 30000 features.
+11-May-20 15:16:58 - SGD 5fCV Accuracy: 0.61 (+/- 0.09)
+11-May-20 15:17:00 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:17:07 - Generated 30000 features.
+11-May-20 15:17:28 - SGD 5fCV Accuracy: 0.64 (+/- 0.05)
+11-May-20 15:17:29 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:17:31 - Generated 1000 features.
+11-May-20 15:17:51 - SGD 5fCV Accuracy: 0.63 (+/- 0.11)
+11-May-20 15:17:53 - LR 5fCV ccuracy: 0.66 (+/- 0.10)
+11-May-20 15:17:56 - Generated 1000 features.
+11-May-20 15:18:18 - SGD 5fCV Accuracy: 0.61 (+/- 0.13)
+11-May-20 15:18:20 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:18:22 - Generated 1000 features.
+11-May-20 15:18:44 - SGD 5fCV Accuracy: 0.63 (+/- 0.11)
+11-May-20 15:18:46 - LR 5fCV ccuracy: 0.67 (+/- 0.09)
+11-May-20 15:18:50 - Generated 5000 features.
+11-May-20 15:19:08 - SGD 5fCV Accuracy: 0.66 (+/- 0.10)
+11-May-20 15:19:10 - LR 5fCV ccuracy: 0.68 (+/- 0.05)
+11-May-20 15:19:14 - Generated 5000 features.
+11-May-20 15:19:36 - SGD 5fCV Accuracy: 0.65 (+/- 0.08)
+11-May-20 15:19:38 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:19:42 - Generated 5000 features.
+11-May-20 15:20:04 - SGD 5fCV Accuracy: 0.63 (+/- 0.08)
+11-May-20 15:20:05 - LR 5fCV ccuracy: 0.66 (+/- 0.08)
+11-May-20 15:20:10 - Generated 10000 features.
+11-May-20 15:20:28 - SGD 5fCV Accuracy: 0.67 (+/- 0.10)
+11-May-20 15:20:29 - LR 5fCV ccuracy: 0.66 (+/- 0.05)
+11-May-20 15:20:34 - Generated 10000 features.
+11-May-20 15:20:55 - SGD 5fCV Accuracy: 0.65 (+/- 0.11)
+11-May-20 15:20:57 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:21:02 - Generated 10000 features.
+11-May-20 15:21:23 - SGD 5fCV Accuracy: 0.67 (+/- 0.08)
+11-May-20 15:21:25 - LR 5fCV ccuracy: 0.67 (+/- 0.05)
+11-May-20 15:21:30 - Generated 20000 features.
+11-May-20 15:21:48 - SGD 5fCV Accuracy: 0.71 (+/- 0.11)
+11-May-20 15:21:49 - LR 5fCV ccuracy: 0.68 (+/- 0.06)
+11-May-20 15:21:55 - Generated 20000 features.
+11-May-20 15:22:16 - SGD 5fCV Accuracy: 0.69 (+/- 0.07)
+11-May-20 15:22:18 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:22:24 - Generated 20000 features.
+11-May-20 15:22:46 - SGD 5fCV Accuracy: 0.71 (+/- 0.12)
+11-May-20 15:22:47 - LR 5fCV ccuracy: 0.67 (+/- 0.06)
+11-May-20 15:22:53 - Generated 30000 features.
+11-May-20 15:23:11 - SGD 5fCV Accuracy: 0.69 (+/- 0.11)
+11-May-20 15:23:12 - LR 5fCV ccuracy: 0.66 (+/- 0.07)
+11-May-20 15:23:19 - Generated 30000 features.
+11-May-20 15:23:40 - SGD 5fCV Accuracy: 0.68 (+/- 0.08)
+11-May-20 15:23:41 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+11-May-20 15:23:49 - Generated 30000 features.
+11-May-20 15:24:10 - SGD 5fCV Accuracy: 0.66 (+/- 0.07)
+11-May-20 15:24:11 - LR 5fCV ccuracy: 0.67 (+/- 0.07)
+Number of features    10000
+variable                SVM
+value                  0.71
+Name: 116, dtype: object
+11-May-20 15:24:12 -  Final feature number: 10000, final learner: SVM
+11-May-20 15:24:57 - Generated 1000 features.
+11-May-20 15:25:16 - SGD 5fCV Accuracy: 0.80 (+/- 0.05)
+11-May-20 15:25:17 - LR 5fCV ccuracy: 0.78 (+/- 0.10)
+11-May-20 15:25:20 - Generated 1000 features.
+11-May-20 15:25:41 - SGD 5fCV Accuracy: 0.79 (+/- 0.09)
+11-May-20 15:25:43 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:25:46 - Generated 1000 features.
+11-May-20 15:26:07 - SGD 5fCV Accuracy: 0.80 (+/- 0.04)
+11-May-20 15:26:09 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:26:12 - Generated 5000 features.
+11-May-20 15:26:30 - SGD 5fCV Accuracy: 0.81 (+/- 0.07)
+11-May-20 15:26:31 - LR 5fCV ccuracy: 0.79 (+/- 0.05)
+11-May-20 15:26:36 - Generated 5000 features.
+11-May-20 15:26:56 - SGD 5fCV Accuracy: 0.78 (+/- 0.08)
+11-May-20 15:26:58 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:27:02 - Generated 5000 features.
+11-May-20 15:27:23 - SGD 5fCV Accuracy: 0.80 (+/- 0.06)
+11-May-20 15:27:24 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:27:29 - Generated 10000 features.
+11-May-20 15:27:46 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:27:48 - LR 5fCV ccuracy: 0.80 (+/- 0.07)
+11-May-20 15:27:53 - Generated 10000 features.
+11-May-20 15:28:13 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:28:14 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:28:20 - Generated 10000 features.
+11-May-20 15:28:40 - SGD 5fCV Accuracy: 0.79 (+/- 0.06)
+11-May-20 15:28:41 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:28:47 - Generated 20000 features.
+11-May-20 15:29:04 - SGD 5fCV Accuracy: 0.80 (+/- 0.03)
+11-May-20 15:29:06 - LR 5fCV ccuracy: 0.80 (+/- 0.06)
+11-May-20 15:29:12 - Generated 20000 features.
+11-May-20 15:29:32 - SGD 5fCV Accuracy: 0.79 (+/- 0.10)
+11-May-20 15:29:34 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:29:40 - Generated 20000 features.
+11-May-20 15:30:00 - SGD 5fCV Accuracy: 0.79 (+/- 0.09)
+11-May-20 15:30:01 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:30:08 - Generated 30000 features.
+11-May-20 15:30:24 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:30:26 - LR 5fCV ccuracy: 0.78 (+/- 0.06)
+11-May-20 15:30:33 - Generated 30000 features.
+11-May-20 15:30:53 - SGD 5fCV Accuracy: 0.78 (+/- 0.05)
+11-May-20 15:30:54 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:31:02 - Generated 30000 features.
+11-May-20 15:31:21 - SGD 5fCV Accuracy: 0.79 (+/- 0.03)
+11-May-20 15:31:23 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:31:25 - Generated 1000 features.
+11-May-20 15:31:44 - SGD 5fCV Accuracy: 0.79 (+/- 0.08)
+11-May-20 15:31:45 - LR 5fCV ccuracy: 0.78 (+/- 0.09)
+11-May-20 15:31:48 - Generated 1000 features.
+11-May-20 15:32:09 - SGD 5fCV Accuracy: 0.78 (+/- 0.08)
+11-May-20 15:32:11 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:32:14 - Generated 1000 features.
+11-May-20 15:32:35 - SGD 5fCV Accuracy: 0.78 (+/- 0.07)
+11-May-20 15:32:37 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:32:40 - Generated 5000 features.
+11-May-20 15:32:58 - SGD 5fCV Accuracy: 0.79 (+/- 0.13)
+11-May-20 15:32:59 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:33:04 - Generated 5000 features.
+11-May-20 15:33:24 - SGD 5fCV Accuracy: 0.77 (+/- 0.08)
+11-May-20 15:33:26 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:33:30 - Generated 5000 features.
+11-May-20 15:33:51 - SGD 5fCV Accuracy: 0.77 (+/- 0.10)
+11-May-20 15:33:52 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:33:57 - Generated 10000 features.
+11-May-20 15:34:14 - SGD 5fCV Accuracy: 0.79 (+/- 0.11)
+11-May-20 15:34:15 - LR 5fCV ccuracy: 0.80 (+/- 0.08)
+11-May-20 15:34:21 - Generated 10000 features.
+11-May-20 15:34:41 - SGD 5fCV Accuracy: 0.78 (+/- 0.13)
+11-May-20 15:34:42 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:34:48 - Generated 10000 features.
+11-May-20 15:35:08 - SGD 5fCV Accuracy: 0.80 (+/- 0.10)
+11-May-20 15:35:09 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:35:15 - Generated 20000 features.
+11-May-20 15:35:32 - SGD 5fCV Accuracy: 0.78 (+/- 0.11)
+11-May-20 15:35:33 - LR 5fCV ccuracy: 0.80 (+/- 0.08)
+11-May-20 15:35:39 - Generated 20000 features.
+11-May-20 15:35:59 - SGD 5fCV Accuracy: 0.79 (+/- 0.06)
+11-May-20 15:36:00 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:36:07 - Generated 20000 features.
+11-May-20 15:36:27 - SGD 5fCV Accuracy: 0.80 (+/- 0.09)
+11-May-20 15:36:28 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:36:34 - Generated 30000 features.
+11-May-20 15:36:51 - SGD 5fCV Accuracy: 0.75 (+/- 0.13)
+11-May-20 15:36:52 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:37:00 - Generated 30000 features.
+11-May-20 15:37:19 - SGD 5fCV Accuracy: 0.81 (+/- 0.04)
+11-May-20 15:37:21 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:37:28 - Generated 30000 features.
+11-May-20 15:37:48 - SGD 5fCV Accuracy: 0.79 (+/- 0.06)
+11-May-20 15:37:49 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:37:52 - Generated 1000 features.
+11-May-20 15:38:10 - SGD 5fCV Accuracy: 0.76 (+/- 0.12)
+11-May-20 15:38:12 - LR 5fCV ccuracy: 0.78 (+/- 0.10)
+11-May-20 15:38:15 - Generated 1000 features.
+11-May-20 15:38:36 - SGD 5fCV Accuracy: 0.80 (+/- 0.03)
+11-May-20 15:38:38 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:38:41 - Generated 1000 features.
+11-May-20 15:39:02 - SGD 5fCV Accuracy: 0.77 (+/- 0.08)
+11-May-20 15:39:04 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:39:09 - Generated 5000 features.
+11-May-20 15:39:27 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:39:28 - LR 5fCV ccuracy: 0.80 (+/- 0.04)
+11-May-20 15:39:33 - Generated 5000 features.
+11-May-20 15:39:53 - SGD 5fCV Accuracy: 0.78 (+/- 0.07)
+11-May-20 15:39:55 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:39:59 - Generated 5000 features.
+11-May-20 15:40:19 - SGD 5fCV Accuracy: 0.80 (+/- 0.07)
+11-May-20 15:40:21 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:40:26 - Generated 10000 features.
+11-May-20 15:40:43 - SGD 5fCV Accuracy: 0.77 (+/- 0.09)
+11-May-20 15:40:45 - LR 5fCV ccuracy: 0.79 (+/- 0.07)
+11-May-20 15:40:50 - Generated 10000 features.
+11-May-20 15:41:10 - SGD 5fCV Accuracy: 0.80 (+/- 0.14)
+11-May-20 15:41:12 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:41:17 - Generated 10000 features.
+11-May-20 15:41:37 - SGD 5fCV Accuracy: 0.80 (+/- 0.12)
+11-May-20 15:41:39 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:41:44 - Generated 20000 features.
+11-May-20 15:42:01 - SGD 5fCV Accuracy: 0.77 (+/- 0.11)
+11-May-20 15:42:03 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:42:09 - Generated 20000 features.
+11-May-20 15:42:28 - SGD 5fCV Accuracy: 0.78 (+/- 0.06)
+11-May-20 15:42:30 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:42:37 - Generated 20000 features.
+11-May-20 15:42:56 - SGD 5fCV Accuracy: 0.80 (+/- 0.03)
+11-May-20 15:42:58 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:43:04 - Generated 30000 features.
+11-May-20 15:43:21 - SGD 5fCV Accuracy: 0.77 (+/- 0.11)
+11-May-20 15:43:22 - LR 5fCV ccuracy: 0.79 (+/- 0.10)
+11-May-20 15:43:29 - Generated 30000 features.
+11-May-20 15:43:49 - SGD 5fCV Accuracy: 0.79 (+/- 0.08)
+11-May-20 15:43:50 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:43:58 - Generated 30000 features.
+11-May-20 15:44:17 - SGD 5fCV Accuracy: 0.78 (+/- 0.07)
+11-May-20 15:44:19 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:44:22 - Generated 1000 features.
+11-May-20 15:44:41 - SGD 5fCV Accuracy: 0.80 (+/- 0.05)
+11-May-20 15:44:42 - LR 5fCV ccuracy: 0.78 (+/- 0.09)
+11-May-20 15:44:45 - Generated 1000 features.
+11-May-20 15:45:06 - SGD 5fCV Accuracy: 0.75 (+/- 0.12)
+11-May-20 15:45:08 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:45:11 - Generated 1000 features.
+11-May-20 15:45:32 - SGD 5fCV Accuracy: 0.76 (+/- 0.10)
+11-May-20 15:45:34 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:45:37 - Generated 5000 features.
+11-May-20 15:45:55 - SGD 5fCV Accuracy: 0.82 (+/- 0.08)
+11-May-20 15:45:57 - LR 5fCV ccuracy: 0.80 (+/- 0.06)
+11-May-20 15:46:01 - Generated 5000 features.
+11-May-20 15:46:21 - SGD 5fCV Accuracy: 0.72 (+/- 0.12)
+11-May-20 15:46:23 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:46:27 - Generated 5000 features.
+11-May-20 15:46:48 - SGD 5fCV Accuracy: 0.80 (+/- 0.05)
+11-May-20 15:46:49 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:46:54 - Generated 10000 features.
+11-May-20 15:47:11 - SGD 5fCV Accuracy: 0.80 (+/- 0.08)
+11-May-20 15:47:13 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:47:18 - Generated 10000 features.
+11-May-20 15:47:38 - SGD 5fCV Accuracy: 0.79 (+/- 0.03)
+11-May-20 15:47:40 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:47:45 - Generated 10000 features.
+11-May-20 15:48:05 - SGD 5fCV Accuracy: 0.78 (+/- 0.10)
+11-May-20 15:48:07 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 15:48:12 - Generated 20000 features.
+11-May-20 15:48:29 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:48:31 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:48:37 - Generated 20000 features.
+11-May-20 15:48:57 - SGD 5fCV Accuracy: 0.80 (+/- 0.04)
+11-May-20 15:48:58 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:49:05 - Generated 20000 features.
+11-May-20 15:49:25 - SGD 5fCV Accuracy: 0.79 (+/- 0.05)
+11-May-20 15:49:26 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 15:49:33 - Generated 30000 features.
+11-May-20 15:49:50 - SGD 5fCV Accuracy: 0.80 (+/- 0.08)
+11-May-20 15:49:51 - LR 5fCV ccuracy: 0.79 (+/- 0.09)
+11-May-20 15:49:58 - Generated 30000 features.
+11-May-20 15:50:18 - SGD 5fCV Accuracy: 0.80 (+/- 0.02)
+11-May-20 15:50:19 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:50:27 - Generated 30000 features.
+11-May-20 15:50:47 - SGD 5fCV Accuracy: 0.79 (+/- 0.13)
+11-May-20 15:50:48 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 15:50:51 - Generated 1000 features.
+11-May-20 15:51:09 - SGD 5fCV Accuracy: 0.78 (+/- 0.09)
+11-May-20 15:51:10 - LR 5fCV ccuracy: 0.78 (+/- 0.10)
+11-May-20 15:51:13 - Generated 1000 features.
+11-May-20 15:51:34 - SGD 5fCV Accuracy: 0.78 (+/- 0.15)
+11-May-20 15:51:36 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:51:39 - Generated 1000 features.
+11-May-20 15:52:00 - SGD 5fCV Accuracy: 0.75 (+/- 0.12)
+11-May-20 15:52:02 - LR 5fCV ccuracy: 0.79 (+/- 0.11)
+11-May-20 15:52:06 - Generated 5000 features.
+11-May-20 15:52:23 - SGD 5fCV Accuracy: 0.81 (+/- 0.03)
+11-May-20 15:52:25 - LR 5fCV ccuracy: 0.81 (+/- 0.05)
+11-May-20 15:52:29 - Generated 5000 features.
+11-May-20 15:52:49 - SGD 5fCV Accuracy: 0.81 (+/- 0.07)
+11-May-20 15:52:51 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 15:52:56 - Generated 5000 features.
+11-May-20 16:10:14 - SGD 5fCV Accuracy: 0.81 (+/- 0.05)
+11-May-20 16:10:17 - LR 5fCV ccuracy: 0.81 (+/- 0.06)
+11-May-20 16:10:22 - Generated 10000 features.
+11-May-20 16:10:41 - SGD 5fCV Accuracy: 0.82 (+/- 0.08)
+11-May-20 16:10:43 - LR 5fCV ccuracy: 0.81 (+/- 0.05)
+11-May-20 16:10:48 - Generated 10000 features.
+11-May-20 16:11:11 - SGD 5fCV Accuracy: 0.79 (+/- 0.04)
+11-May-20 16:11:13 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 16:11:20 - Generated 10000 features.
+11-May-20 16:11:52 - SGD 5fCV Accuracy: 0.78 (+/- 0.07)
+11-May-20 16:11:54 - LR 5fCV ccuracy: 0.80 (+/- 0.05)
+11-May-20 16:12:00 - Generated 20000 features.
+11-May-20 16:12:18 - SGD 5fCV Accuracy: 0.76 (+/- 0.15)
+11-May-20 16:12:19 - LR 5fCV ccuracy: 0.80 (+/- 0.08)
+11-May-20 16:12:27 - Generated 20000 features.
+11-May-20 16:12:50 - SGD 5fCV Accuracy: 0.78 (+/- 0.08)
+11-May-20 16:15:10 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 16:15:18 - Generated 20000 features.
+11-May-20 16:17:47 - SGD 5fCV Accuracy: 0.79 (+/- 0.05)
+11-May-20 16:17:49 - LR 5fCV ccuracy: 0.79 (+/- 0.04)
+11-May-20 16:17:56 - Generated 30000 features.
+11-May-20 16:18:14 - SGD 5fCV Accuracy: 0.79 (+/- 0.06)
+11-May-20 16:18:16 - LR 5fCV ccuracy: 0.79 (+/- 0.10)
+11-May-20 16:18:24 - Generated 30000 features.
+11-May-20 16:18:46 - SGD 5fCV Accuracy: 0.78 (+/- 0.05)
+11-May-20 16:18:47 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+11-May-20 16:18:56 - Generated 30000 features.
+11-May-20 16:19:17 - SGD 5fCV Accuracy: 0.80 (+/- 0.09)
+11-May-20 16:19:19 - LR 5fCV ccuracy: 0.79 (+/- 0.06)
+Number of features    5000
+variable               SVM
+value                 0.82
+Name: 141, dtype: object
+11-May-20 16:19:20 -  Final feature number: 5000, final learner: SVM

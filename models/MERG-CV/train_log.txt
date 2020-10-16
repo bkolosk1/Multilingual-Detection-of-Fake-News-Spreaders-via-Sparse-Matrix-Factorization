@@ -1,0 +1,370 @@
+12-May-20 10:13:03 - Generated 5000 features.
+12-May-20 10:13:24 - SGD Training 5fCV Accuracy: 0.70 (+/- 0.14)
+12-May-20 10:13:24 - 0.6666666666666666 training-eval configuration with best score (SGD,256)
+12-May-20 10:13:41 - LR 5fCV Training ccuracy: 0.72 (+/- 0.12)
+12-May-20 10:13:41 - 0.6666666666666666 training-eval configuration with best score (LR,256)
+12-May-20 10:13:46 - Generated 5000 features.
+12-May-20 10:14:10 - SGD Training 5fCV Accuracy: 0.69 (+/- 0.10)
+12-May-20 10:14:10 - 0.7 training-eval configuration with best score (SGD,512)
+12-May-20 10:14:31 - LR 5fCV Training ccuracy: 0.66 (+/- 0.07)
+12-May-20 10:14:31 - 0.7 training-eval configuration with best score (LR,512)
+12-May-20 10:14:36 - Generated 5000 features.
+12-May-20 10:15:03 - SGD Training 5fCV Accuracy: 0.70 (+/- 0.11)
+12-May-20 10:15:03 - 0.5666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 10:15:24 - LR 5fCV Training ccuracy: 0.70 (+/- 0.14)
+12-May-20 10:15:24 - 0.6333333333333333 training-eval configuration with best score (LR,768)
+12-May-20 10:15:30 - Generated 10000 features.
+12-May-20 10:15:50 - SGD Training 5fCV Accuracy: 0.64 (+/- 0.19)
+12-May-20 10:15:50 - 0.5 training-eval configuration with best score (SGD,256)
+12-May-20 10:16:07 - LR 5fCV Training ccuracy: 0.63 (+/- 0.21)
+12-May-20 10:16:07 - 0.5333333333333333 training-eval configuration with best score (LR,256)
+12-May-20 10:16:14 - Generated 10000 features.
+12-May-20 10:16:41 - SGD Training 5fCV Accuracy: 0.64 (+/- 0.08)
+12-May-20 10:16:41 - 0.6666666666666666 training-eval configuration with best score (SGD,512)
+12-May-20 10:17:02 - LR 5fCV Training ccuracy: 0.63 (+/- 0.13)
+12-May-20 10:17:02 - 0.7 training-eval configuration with best score (LR,512)
+12-May-20 10:17:10 - Generated 10000 features.
+12-May-20 10:17:36 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.08)
+12-May-20 10:17:36 - 0.7666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 10:17:57 - LR 5fCV Training ccuracy: 0.64 (+/- 0.13)
+12-May-20 10:17:57 - 0.7333333333333333 training-eval configuration with best score (LR,768)
+12-May-20 10:18:04 - Generated 20000 features.
+12-May-20 10:18:25 - SGD Training 5fCV Accuracy: 0.67 (+/- 0.11)
+12-May-20 10:18:25 - 0.7666666666666667 training-eval configuration with best score (SGD,256)
+12-May-20 10:18:41 - LR 5fCV Training ccuracy: 0.68 (+/- 0.11)
+12-May-20 10:18:41 - 0.7 training-eval configuration with best score (LR,256)
+12-May-20 10:18:49 - Generated 20000 features.
+12-May-20 10:19:12 - SGD Training 5fCV Accuracy: 0.69 (+/- 0.08)
+12-May-20 10:19:12 - 0.7666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 10:19:31 - LR 5fCV Training ccuracy: 0.68 (+/- 0.11)
+12-May-20 10:19:31 - 0.7333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:19:39 - Generated 20000 features.
+12-May-20 10:20:02 - SGD Training 5fCV Accuracy: 0.70 (+/- 0.12)
+12-May-20 10:20:02 - 0.5666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 10:20:21 - LR 5fCV Training ccuracy: 0.67 (+/- 0.10)
+12-May-20 10:20:21 - 0.5666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 10:20:29 - Generated 30000 features.
+12-May-20 10:20:48 - SGD Training 5fCV Accuracy: 0.67 (+/- 0.13)
+12-May-20 10:20:48 - 0.7666666666666667 training-eval configuration with best score (SGD,256)
+12-May-20 10:21:04 - LR 5fCV Training ccuracy: 0.69 (+/- 0.18)
+12-May-20 10:21:04 - 0.7333333333333333 training-eval configuration with best score (LR,256)
+12-May-20 10:21:13 - Generated 30000 features.
+12-May-20 10:21:36 - SGD Training 5fCV Accuracy: 0.74 (+/- 0.10)
+12-May-20 10:21:36 - 0.6333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 10:21:54 - LR 5fCV Training ccuracy: 0.69 (+/- 0.19)
+12-May-20 10:21:54 - 0.6333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:22:03 - Generated 30000 features.
+12-May-20 10:22:27 - SGD Training 5fCV Accuracy: 0.68 (+/- 0.11)
+12-May-20 10:22:27 - 0.7333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 10:22:46 - LR 5fCV Training ccuracy: 0.66 (+/- 0.11)
+12-May-20 10:22:46 - 0.7666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 10:22:50 - Generated 5000 features.
+12-May-20 10:23:11 - SGD Training 5fCV Accuracy: 0.65 (+/- 0.08)
+12-May-20 10:23:11 - 0.8333333333333334 training-eval configuration with best score (SGD,256)
+12-May-20 10:23:28 - LR 5fCV Training ccuracy: 0.69 (+/- 0.10)
+12-May-20 10:23:28 - 0.7 training-eval configuration with best score (LR,256)
+12-May-20 10:23:33 - Generated 5000 features.
+12-May-20 10:23:57 - SGD Training 5fCV Accuracy: 0.65 (+/- 0.16)
+12-May-20 10:23:57 - 0.7666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 10:24:17 - LR 5fCV Training ccuracy: 0.66 (+/- 0.13)
+12-May-20 10:24:17 - 0.7333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:24:22 - Generated 5000 features.
+12-May-20 10:24:46 - SGD Training 5fCV Accuracy: 0.68 (+/- 0.13)
+12-May-20 10:24:46 - 0.6333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 10:25:06 - LR 5fCV Training ccuracy: 0.71 (+/- 0.08)
+12-May-20 10:25:06 - 0.6 training-eval configuration with best score (LR,768)
+12-May-20 10:25:12 - Generated 10000 features.
+12-May-20 10:25:32 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.13)
+12-May-20 10:25:32 - 0.6 training-eval configuration with best score (SGD,256)
+12-May-20 10:25:51 - LR 5fCV Training ccuracy: 0.66 (+/- 0.08)
+12-May-20 10:25:51 - 0.7 training-eval configuration with best score (LR,256)
+12-May-20 10:25:58 - Generated 10000 features.
+12-May-20 10:26:23 - SGD Training 5fCV Accuracy: 0.67 (+/- 0.18)
+12-May-20 10:26:23 - 0.5666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 10:26:43 - LR 5fCV Training ccuracy: 0.67 (+/- 0.13)
+12-May-20 10:26:43 - 0.6 training-eval configuration with best score (LR,512)
+12-May-20 10:26:50 - Generated 10000 features.
+12-May-20 10:27:15 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.15)
+12-May-20 10:27:15 - 0.7333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 10:27:36 - LR 5fCV Training ccuracy: 0.64 (+/- 0.18)
+12-May-20 10:27:36 - 0.7333333333333333 training-eval configuration with best score (LR,768)
+12-May-20 10:27:43 - Generated 20000 features.
+12-May-20 10:28:03 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.10)
+12-May-20 10:28:03 - 0.6666666666666666 training-eval configuration with best score (SGD,256)
+12-May-20 10:28:23 - LR 5fCV Training ccuracy: 0.69 (+/- 0.07)
+12-May-20 10:28:23 - 0.6666666666666666 training-eval configuration with best score (LR,256)
+12-May-20 10:28:31 - Generated 20000 features.
+12-May-20 10:28:56 - SGD Training 5fCV Accuracy: 0.71 (+/- 0.13)
+12-May-20 10:28:56 - 0.7333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 10:29:16 - LR 5fCV Training ccuracy: 0.68 (+/- 0.15)
+12-May-20 10:29:16 - 0.7 training-eval configuration with best score (LR,512)
+12-May-20 10:29:24 - Generated 20000 features.
+12-May-20 10:29:50 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.10)
+12-May-20 10:29:50 - 0.6666666666666666 training-eval configuration with best score (SGD,768)
+12-May-20 10:30:11 - LR 5fCV Training ccuracy: 0.71 (+/- 0.09)
+12-May-20 10:30:11 - 0.6333333333333333 training-eval configuration with best score (LR,768)
+12-May-20 10:30:19 - Generated 30000 features.
+12-May-20 10:30:39 - SGD Training 5fCV Accuracy: 0.69 (+/- 0.09)
+12-May-20 10:30:39 - 0.7 training-eval configuration with best score (SGD,256)
+12-May-20 10:30:56 - LR 5fCV Training ccuracy: 0.66 (+/- 0.10)
+12-May-20 10:30:56 - 0.7666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 10:31:04 - Generated 30000 features.
+12-May-20 10:31:29 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.06)
+12-May-20 10:31:29 - 0.7333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 10:31:49 - LR 5fCV Training ccuracy: 0.68 (+/- 0.09)
+12-May-20 10:31:49 - 0.6333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:31:58 - Generated 30000 features.
+12-May-20 10:32:23 - SGD Training 5fCV Accuracy: 0.70 (+/- 0.12)
+12-May-20 10:32:23 - 0.6333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 10:32:44 - LR 5fCV Training ccuracy: 0.71 (+/- 0.10)
+12-May-20 10:32:44 - 0.6666666666666666 training-eval configuration with best score (LR,768)
+12-May-20 10:32:48 - Generated 5000 features.
+12-May-20 10:33:11 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.14)
+12-May-20 10:33:11 - 0.6666666666666666 training-eval configuration with best score (SGD,256)
+12-May-20 10:33:29 - LR 5fCV Training ccuracy: 0.69 (+/- 0.13)
+12-May-20 10:33:29 - 0.6333333333333333 training-eval configuration with best score (LR,256)
+12-May-20 10:33:34 - Generated 5000 features.
+12-May-20 10:34:03 - SGD Training 5fCV Accuracy: 0.67 (+/- 0.17)
+12-May-20 10:34:03 - 0.7333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 10:34:25 - LR 5fCV Training ccuracy: 0.64 (+/- 0.12)
+12-May-20 10:34:25 - 0.8333333333333334 training-eval configuration with best score (LR,512)
+12-May-20 10:34:31 - Generated 5000 features.
+12-May-20 10:34:59 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.05)
+12-May-20 10:34:59 - 0.8666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 10:35:22 - LR 5fCV Training ccuracy: 0.64 (+/- 0.05)
+12-May-20 10:35:22 - 0.8333333333333334 training-eval configuration with best score (LR,768)
+12-May-20 10:35:28 - Generated 10000 features.
+12-May-20 10:35:50 - SGD Training 5fCV Accuracy: 0.71 (+/- 0.10)
+12-May-20 10:35:50 - 0.4666666666666667 training-eval configuration with best score (SGD,256)
+12-May-20 10:36:09 - LR 5fCV Training ccuracy: 0.68 (+/- 0.06)
+12-May-20 10:36:09 - 0.6 training-eval configuration with best score (LR,256)
+12-May-20 10:36:16 - Generated 10000 features.
+12-May-20 10:36:42 - SGD Training 5fCV Accuracy: 0.67 (+/- 0.09)
+12-May-20 10:36:42 - 0.6666666666666666 training-eval configuration with best score (SGD,512)
+12-May-20 10:37:02 - LR 5fCV Training ccuracy: 0.69 (+/- 0.13)
+12-May-20 10:37:02 - 0.6333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:37:09 - Generated 10000 features.
+12-May-20 10:37:34 - SGD Training 5fCV Accuracy: 0.68 (+/- 0.08)
+12-May-20 10:56:29 - 0.8333333333333334 training-eval configuration with best score (SGD,768)
+12-May-20 10:56:55 - LR 5fCV Training ccuracy: 0.63 (+/- 0.05)
+12-May-20 10:56:55 - 0.8 training-eval configuration with best score (LR,768)
+12-May-20 10:57:03 - Generated 20000 features.
+12-May-20 10:57:29 - SGD Training 5fCV Accuracy: 0.75 (+/- 0.15)
+12-May-20 10:57:32 - 0.6333333333333333 training-eval configuration with best score (SGD,256)
+12-May-20 10:57:50 - LR 5fCV Training ccuracy: 0.72 (+/- 0.15)
+12-May-20 10:57:50 - 0.6333333333333333 training-eval configuration with best score (LR,256)
+12-May-20 10:57:59 - Generated 20000 features.
+12-May-20 10:58:26 - SGD Training 5fCV Accuracy: 0.74 (+/- 0.11)
+12-May-20 10:58:26 - 0.5333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 10:58:46 - LR 5fCV Training ccuracy: 0.70 (+/- 0.08)
+12-May-20 10:58:46 - 0.5333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 10:58:56 - Generated 20000 features.
+12-May-20 10:59:26 - SGD Training 5fCV Accuracy: 0.66 (+/- 0.04)
+12-May-20 10:59:26 - 0.6666666666666666 training-eval configuration with best score (SGD,768)
+12-May-20 10:59:48 - LR 5fCV Training ccuracy: 0.68 (+/- 0.08)
+12-May-20 10:59:48 - 0.7666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 10:59:57 - Generated 30000 features.
+12-May-20 11:00:19 - SGD Training 5fCV Accuracy: 0.64 (+/- 0.08)
+12-May-20 11:05:22 - 0.7333333333333333 training-eval configuration with best score (SGD,256)
+12-May-20 11:06:14 - LR 5fCV Training ccuracy: 0.64 (+/- 0.10)
+12-May-20 11:06:14 - 0.8333333333333334 training-eval configuration with best score (LR,256)
+12-May-20 11:06:33 - Generated 30000 features.
+12-May-20 11:07:04 - SGD Training 5fCV Accuracy: 0.70 (+/- 0.07)
+12-May-20 11:07:04 - 0.6333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 11:07:26 - LR 5fCV Training ccuracy: 0.70 (+/- 0.08)
+12-May-20 11:07:26 - 0.6333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 11:07:36 - Generated 30000 features.
+12-May-20 11:08:07 - SGD Training 5fCV Accuracy: 0.68 (+/- 0.13)
+12-May-20 11:08:07 - 0.6333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 11:08:30 - LR 5fCV Training ccuracy: 0.71 (+/- 0.17)
+12-May-20 11:08:30 - 0.6666666666666666 training-eval configuration with best score (LR,768)
+Number of features       10000
+variable                   SVM
+value                 0.751852
+Name: 66, dtype: object
+12-May-20 11:08:34 -  Final feature number: 10000, final learner: SVM
+12-May-20 11:09:41 - Generated 5000 features.
+12-May-20 11:10:32 - SGD Training 5fCV Accuracy: 0.78 (+/- 0.13)
+12-May-20 11:12:50 - 0.8 training-eval configuration with best score (SGD,256)
+12-May-20 11:13:10 - LR 5fCV Training ccuracy: 0.77 (+/- 0.08)
+12-May-20 11:15:58 - 0.7666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:16:04 - Generated 5000 features.
+12-May-20 11:19:03 - SGD Training 5fCV Accuracy: 0.80 (+/- 0.10)
+12-May-20 11:19:03 - 0.8 training-eval configuration with best score (SGD,512)
+12-May-20 11:19:23 - LR 5fCV Training ccuracy: 0.78 (+/- 0.09)
+12-May-20 11:19:23 - 0.8 training-eval configuration with best score (LR,512)
+12-May-20 11:19:29 - Generated 5000 features.
+12-May-20 11:19:54 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.08)
+12-May-20 11:19:54 - 0.7333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 11:20:15 - LR 5fCV Training ccuracy: 0.77 (+/- 0.10)
+12-May-20 11:20:15 - 0.7 training-eval configuration with best score (LR,768)
+12-May-20 11:20:21 - Generated 10000 features.
+12-May-20 11:20:42 - SGD Training 5fCV Accuracy: 0.74 (+/- 0.10)
+12-May-20 11:20:42 - 0.7 training-eval configuration with best score (SGD,256)
+12-May-20 11:20:58 - LR 5fCV Training ccuracy: 0.76 (+/- 0.12)
+12-May-20 11:20:58 - 0.7 training-eval configuration with best score (LR,256)
+12-May-20 11:21:05 - Generated 10000 features.
+12-May-20 11:21:29 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.13)
+12-May-20 11:21:29 - 0.7666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:21:50 - LR 5fCV Training ccuracy: 0.75 (+/- 0.15)
+12-May-20 11:21:50 - 0.8 training-eval configuration with best score (LR,512)
+12-May-20 11:21:57 - Generated 10000 features.
+12-May-20 11:22:21 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.11)
+12-May-20 11:22:21 - 0.8 training-eval configuration with best score (SGD,768)
+12-May-20 11:22:41 - LR 5fCV Training ccuracy: 0.79 (+/- 0.05)
+12-May-20 11:22:41 - 0.8333333333333334 training-eval configuration with best score (LR,768)
+12-May-20 11:22:48 - Generated 20000 features.
+12-May-20 11:23:09 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.09)
+12-May-20 11:23:09 - 0.8333333333333334 training-eval configuration with best score (SGD,256)
+12-May-20 11:23:26 - LR 5fCV Training ccuracy: 0.79 (+/- 0.03)
+12-May-20 11:23:26 - 0.8666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:23:34 - Generated 20000 features.
+12-May-20 11:23:57 - SGD Training 5fCV Accuracy: 0.80 (+/- 0.09)
+12-May-20 11:23:57 - 0.6666666666666666 training-eval configuration with best score (SGD,512)
+12-May-20 11:24:16 - LR 5fCV Training ccuracy: 0.78 (+/- 0.07)
+12-May-20 11:24:16 - 0.8 training-eval configuration with best score (LR,512)
+12-May-20 11:24:25 - Generated 20000 features.
+12-May-20 11:24:48 - SGD Training 5fCV Accuracy: 0.74 (+/- 0.06)
+12-May-20 11:24:48 - 0.8 training-eval configuration with best score (SGD,768)
+12-May-20 11:25:10 - LR 5fCV Training ccuracy: 0.73 (+/- 0.05)
+12-May-20 11:25:10 - 0.9666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 11:25:18 - Generated 30000 features.
+12-May-20 11:25:38 - SGD Training 5fCV Accuracy: 0.78 (+/- 0.04)
+12-May-20 11:25:38 - 0.8 training-eval configuration with best score (SGD,256)
+12-May-20 11:25:54 - LR 5fCV Training ccuracy: 0.74 (+/- 0.06)
+12-May-20 11:25:54 - 0.7666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:26:03 - Generated 30000 features.
+12-May-20 11:26:24 - SGD Training 5fCV Accuracy: 0.74 (+/- 0.14)
+12-May-20 11:26:24 - 0.7333333333333333 training-eval configuration with best score (SGD,512)
+12-May-20 11:26:42 - LR 5fCV Training ccuracy: 0.75 (+/- 0.08)
+12-May-20 11:26:42 - 0.7 training-eval configuration with best score (LR,512)
+12-May-20 11:26:52 - Generated 30000 features.
+12-May-20 11:27:13 - SGD Training 5fCV Accuracy: 0.78 (+/- 0.12)
+12-May-20 11:27:13 - 0.7666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 11:27:32 - LR 5fCV Training ccuracy: 0.76 (+/- 0.12)
+12-May-20 11:27:32 - 0.7333333333333333 training-eval configuration with best score (LR,768)
+12-May-20 11:27:36 - Generated 5000 features.
+12-May-20 11:27:58 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.11)
+12-May-20 11:27:58 - 0.9333333333333333 training-eval configuration with best score (SGD,256)
+12-May-20 11:28:16 - LR 5fCV Training ccuracy: 0.78 (+/- 0.14)
+12-May-20 11:28:16 - 0.8666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:28:21 - Generated 5000 features.
+12-May-20 11:28:46 - SGD Training 5fCV Accuracy: 0.78 (+/- 0.11)
+12-May-20 11:28:46 - 0.7666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:29:06 - LR 5fCV Training ccuracy: 0.77 (+/- 0.12)
+12-May-20 11:29:06 - 0.8 training-eval configuration with best score (LR,512)
+12-May-20 11:29:12 - Generated 5000 features.
+12-May-20 11:29:37 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.04)
+12-May-20 11:29:37 - 0.8 training-eval configuration with best score (SGD,768)
+12-May-20 11:29:56 - LR 5fCV Training ccuracy: 0.78 (+/- 0.12)
+12-May-20 11:29:56 - 0.8 training-eval configuration with best score (LR,768)
+12-May-20 11:30:01 - Generated 10000 features.
+12-May-20 11:30:20 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.05)
+12-May-20 11:30:20 - 0.7 training-eval configuration with best score (SGD,256)
+12-May-20 11:30:38 - LR 5fCV Training ccuracy: 0.80 (+/- 0.06)
+12-May-20 11:30:38 - 0.7666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:30:44 - Generated 10000 features.
+12-May-20 11:31:07 - SGD Training 5fCV Accuracy: 0.80 (+/- 0.12)
+12-May-20 11:31:07 - 0.8666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:31:27 - LR 5fCV Training ccuracy: 0.73 (+/- 0.16)
+12-May-20 11:31:27 - 0.8666666666666667 training-eval configuration with best score (LR,512)
+12-May-20 11:31:33 - Generated 10000 features.
+12-May-20 11:31:57 - SGD Training 5fCV Accuracy: 0.75 (+/- 0.07)
+12-May-20 11:31:57 - 0.8333333333333334 training-eval configuration with best score (SGD,768)
+12-May-20 11:32:16 - LR 5fCV Training ccuracy: 0.80 (+/- 0.05)
+12-May-20 11:32:16 - 0.8333333333333334 training-eval configuration with best score (LR,768)
+12-May-20 11:32:23 - Generated 20000 features.
+12-May-20 11:32:42 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.05)
+12-May-20 11:32:42 - 0.8 training-eval configuration with best score (SGD,256)
+12-May-20 11:32:57 - LR 5fCV Training ccuracy: 0.75 (+/- 0.06)
+12-May-20 11:32:57 - 0.8333333333333334 training-eval configuration with best score (LR,256)
+12-May-20 11:33:04 - Generated 20000 features.
+12-May-20 11:33:28 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.13)
+12-May-20 11:33:28 - 0.8333333333333334 training-eval configuration with best score (SGD,512)
+12-May-20 11:33:47 - LR 5fCV Training ccuracy: 0.79 (+/- 0.11)
+12-May-20 11:33:47 - 0.8666666666666667 training-eval configuration with best score (LR,512)
+12-May-20 11:33:56 - Generated 20000 features.
+12-May-20 11:34:18 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.11)
+12-May-20 11:34:18 - 0.7333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 11:34:38 - LR 5fCV Training ccuracy: 0.80 (+/- 0.09)
+12-May-20 11:34:38 - 0.7666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 11:34:45 - Generated 30000 features.
+12-May-20 11:35:06 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.09)
+12-May-20 11:35:06 - 0.7666666666666667 training-eval configuration with best score (SGD,256)
+12-May-20 11:35:22 - LR 5fCV Training ccuracy: 0.76 (+/- 0.08)
+12-May-20 11:35:22 - 0.8666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:35:32 - Generated 30000 features.
+12-May-20 11:35:56 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.08)
+12-May-20 11:35:56 - 0.8666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:36:14 - LR 5fCV Training ccuracy: 0.76 (+/- 0.09)
+12-May-20 11:36:14 - 0.8666666666666667 training-eval configuration with best score (LR,512)
+12-May-20 11:36:24 - Generated 30000 features.
+12-May-20 11:36:48 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.08)
+12-May-20 11:36:48 - 0.7666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 11:37:06 - LR 5fCV Training ccuracy: 0.77 (+/- 0.13)
+12-May-20 11:37:06 - 0.7666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 11:37:11 - Generated 5000 features.
+12-May-20 11:37:31 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.08)
+12-May-20 11:37:31 - 0.8 training-eval configuration with best score (SGD,256)
+12-May-20 11:37:47 - LR 5fCV Training ccuracy: 0.78 (+/- 0.07)
+12-May-20 11:37:47 - 0.8333333333333334 training-eval configuration with best score (LR,256)
+12-May-20 11:37:52 - Generated 5000 features.
+12-May-20 11:38:16 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.12)
+12-May-20 11:38:16 - 0.8666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:38:36 - LR 5fCV Training ccuracy: 0.76 (+/- 0.16)
+12-May-20 11:38:36 - 0.9333333333333333 training-eval configuration with best score (LR,512)
+12-May-20 11:38:42 - Generated 5000 features.
+12-May-20 11:39:06 - SGD Training 5fCV Accuracy: 0.75 (+/- 0.09)
+12-May-20 11:39:06 - 0.9333333333333333 training-eval configuration with best score (SGD,768)
+12-May-20 11:39:26 - LR 5fCV Training ccuracy: 0.75 (+/- 0.08)
+12-May-20 11:39:26 - 0.8666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 11:39:32 - Generated 10000 features.
+12-May-20 11:39:52 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.15)
+12-May-20 11:39:52 - 0.8 training-eval configuration with best score (SGD,256)
+12-May-20 11:40:09 - LR 5fCV Training ccuracy: 0.75 (+/- 0.13)
+12-May-20 11:40:09 - 0.8333333333333334 training-eval configuration with best score (LR,256)
+12-May-20 11:40:16 - Generated 10000 features.
+12-May-20 11:40:41 - SGD Training 5fCV Accuracy: 0.80 (+/- 0.08)
+12-May-20 11:40:41 - 0.8 training-eval configuration with best score (SGD,512)
+12-May-20 11:41:00 - LR 5fCV Training ccuracy: 0.78 (+/- 0.10)
+12-May-20 11:41:00 - 0.8 training-eval configuration with best score (LR,512)
+12-May-20 11:41:06 - Generated 10000 features.
+12-May-20 11:41:30 - SGD Training 5fCV Accuracy: 0.81 (+/- 0.04)
+12-May-20 11:41:30 - 0.7666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 11:41:49 - LR 5fCV Training ccuracy: 0.80 (+/- 0.08)
+12-May-20 11:41:49 - 0.8 training-eval configuration with best score (LR,768)
+12-May-20 11:41:56 - Generated 20000 features.
+12-May-20 11:42:15 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.09)
+12-May-20 11:42:15 - 0.8333333333333334 training-eval configuration with best score (SGD,256)
+12-May-20 11:42:31 - LR 5fCV Training ccuracy: 0.79 (+/- 0.11)
+12-May-20 11:42:31 - 0.7666666666666667 training-eval configuration with best score (LR,256)
+12-May-20 11:42:38 - Generated 20000 features.
+12-May-20 11:43:01 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.11)
+12-May-20 11:43:01 - 0.8666666666666667 training-eval configuration with best score (SGD,512)
+12-May-20 11:43:21 - LR 5fCV Training ccuracy: 0.75 (+/- 0.14)
+12-May-20 11:43:21 - 0.8333333333333334 training-eval configuration with best score (LR,512)
+12-May-20 11:43:29 - Generated 20000 features.
+12-May-20 11:43:56 - SGD Training 5fCV Accuracy: 0.77 (+/- 0.03)
+12-May-20 11:43:56 - 0.7666666666666667 training-eval configuration with best score (SGD,768)
+12-May-20 11:44:16 - LR 5fCV Training ccuracy: 0.78 (+/- 0.06)
+12-May-20 11:44:16 - 0.7666666666666667 training-eval configuration with best score (LR,768)
+12-May-20 11:44:23 - Generated 30000 features.
+12-May-20 11:44:44 - SGD Training 5fCV Accuracy: 0.80 (+/- 0.06)
+12-May-20 11:44:44 - 0.7333333333333333 training-eval configuration with best score (SGD,256)
+12-May-20 11:45:01 - LR 5fCV Training ccuracy: 0.78 (+/- 0.11)
+12-May-20 11:45:01 - 0.7 training-eval configuration with best score (LR,256)
+12-May-20 11:45:11 - Generated 30000 features.
+12-May-20 11:45:33 - SGD Training 5fCV Accuracy: 0.76 (+/- 0.10)
+12-May-20 11:45:33 - 0.6 training-eval configuration with best score (SGD,512)
+12-May-20 11:45:52 - LR 5fCV Training ccuracy: 0.78 (+/- 0.10)
+12-May-20 11:45:52 - 0.7 training-eval configuration with best score (LR,512)
+12-May-20 11:46:01 - Generated 30000 features.
+12-May-20 11:46:28 - SGD Training 5fCV Accuracy: 0.79 (+/- 0.08)
+12-May-20 11:46:28 - 0.8 training-eval configuration with best score (SGD,768)
+12-May-20 11:46:46 - LR 5fCV Training ccuracy: 0.77 (+/- 0.09)
+12-May-20 11:46:46 - 0.8 training-eval configuration with best score (LR,768)
+Number of features        5000
+variable                   SVM
+value                 0.807407
+Name: 65, dtype: object
+12-May-20 11:46:46 -  Final feature number: 5000, final learner: SVM
